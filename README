@@ -1,0 +1,4 @@
+Picker and Grapher are tools to gather and print cpu and memory usage on Linux.
+
+To build these apps you first need to install the "cutil" library (check my repos).
+
